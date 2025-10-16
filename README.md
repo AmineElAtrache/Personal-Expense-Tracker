@@ -2,6 +2,9 @@
 
 A full-stack web application for tracking personal expenses with offline capabilities.
 
+<img width="1882" height="1043" alt="image" src="https://github.com/user-attachments/assets/dc5208d5-55e5-4e51-ac81-a2a27b0ffd2a" />
+
+
 ## Features
 
 - Add, edit, delete expenses
