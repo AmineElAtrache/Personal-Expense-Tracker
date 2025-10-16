@@ -1,0 +1,23 @@
+[
+  {
+    "id": "89928cda-ea0e-4003-8490-9a2ba1a68f71",
+    "amount": 20,
+    "description": "burger",
+    "category": "Food",
+    "date": "2025-10-16"
+  },
+  {
+    "id": "d8463730-0c4c-4a7e-9191-de1da54d318a",
+    "amount": 200,
+    "description": "house",
+    "category": "Rent",
+    "date": "2025-10-16"
+  },
+  {
+    "id": "7beb7d3b-0af6-45c8-a777-a7b30c15ef85",
+    "amount": 2,
+    "description": "bus",
+    "category": "Transport",
+    "date": "2025-10-16"
+  }
+]
